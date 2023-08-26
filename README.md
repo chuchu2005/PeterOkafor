@@ -32,3 +32,5 @@ I'm always eager to learn and expand my skillset. Currently, I'm diving deeper i
 I'm open to collaborations, discussions, and new opportunities. Feel free to reach out to me via LinkedIn
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chuchu2005)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
